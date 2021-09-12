@@ -1,0 +1,6 @@
+requests
+pyasn1
+rsa
+pycryptodome
+pywin32
+psutil
